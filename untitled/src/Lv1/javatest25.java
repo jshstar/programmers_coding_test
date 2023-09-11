@@ -1,7 +1,7 @@
 package Lv1;
 
 public class javatest25 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // 소수만들기
         int[] num = {1,2,7,6,4};
         solution(num);
     }
