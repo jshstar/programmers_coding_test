@@ -3,9 +3,9 @@ package Lv1;
 import java.util.Arrays;
 
 public class Javatest65 { // 성격 유형 검사하기
-
 	public static void main(String[] args) {
-
+		Javatest65 javatest65 = new Javatest65();
+		javatest65.solution(new String[]{"AN", "CF", "MJ", "RT", "NA"}, new int[]{5, 3, 2, 7, 5});
 	}
 	public String solution(String[] survey, int[] choices) {
 		String answer = "";
