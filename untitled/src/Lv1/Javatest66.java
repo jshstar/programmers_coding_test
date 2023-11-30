@@ -8,7 +8,6 @@ public class Javatest66 { // 바탕화면 정리
 	// 첫번째 풀이
 	public int[] solution(String[] wallpaper) {
 		int[] answer = new int[4];
-		// boolean firstFlag = false;
 		// 처음 y 돌렸을때 x의 최소값 x 돌렸을때 y의 최소값
 		// 마지막 y 돌렸을때 x의 최대값 x 돌렸을때 y의 최대값
 		firstFlag:
