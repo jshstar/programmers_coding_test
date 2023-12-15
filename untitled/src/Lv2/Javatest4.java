@@ -1,6 +1,6 @@
 package Lv2;
 
-public class javatest4 { //올바른 괄호
+public class Javatest4 { //올바른 괄호
     public static void main(String[] args) {
         solution("()()");
     }
