@@ -1,6 +1,6 @@
 package Lv2;
 
-public class Javatest10 {
+public class Javatest10 { // 예상 대진표
 	public static void main(String[] args) {
 		Javatest10 javatest10 = new Javatest10();
 		javatest10.solution(8,4,7);
