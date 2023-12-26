@@ -1,7 +1,7 @@
 package Lv2;
 
 public class Javatest11 {
-	public static void main(String[] args) {
+	public static void main(String[] args) { // N 개의 최소 공배수
 		Javatest11 javatest11 = new Javatest11();
 		javatest11.solution(new int[]{2,6,8,14});
 	}
